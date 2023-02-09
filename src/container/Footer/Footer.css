@@ -1,0 +1,10 @@
+.app__footer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding-top: 0;
+    z-index: 1;
+    align-items: center;
+    background: var(--color-black);
+    justify-content: flex-start;
+}

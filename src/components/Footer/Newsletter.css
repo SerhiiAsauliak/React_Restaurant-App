@@ -2,7 +2,6 @@
     padding: 2rem 4rem;
     background: var(--color-black);
     border: 1px solid var(--color-golden);
-    z-index: 2;
 }
 
 .app__newsletter-heading {
